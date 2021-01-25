@@ -1,0 +1,2 @@
+# PterEggDB
+Pterodactyl egg database
